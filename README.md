@@ -1,2 +1,2 @@
 # web-blogs
-整理一些干货博客网站
+美团技术团队 https://tech.meituan.com/
