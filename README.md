@@ -7,5 +7,7 @@
   
 其它  
 https://www.cnblogs.com/bailing80/p/11443409.html  
-https://www.cnblogs.com/wojiaochuichui/p/9505096.html
+https://www.cnblogs.com/wojiaochuichui/p/9505096.html  
+
+免费撸https证书:https://www.jianshu.com/p/1ffedd87f319
 
