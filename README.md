@@ -16,5 +16,6 @@ https://www.cnblogs.com/wojiaochuichui/p/9505096.html
 免费撸https证书:https://www.jianshu.com/p/1ffedd87f319  
 docker以及docker-compose离线安装方法：https://blog.csdn.net/catoop/article/details/102523847  
 jenkins自动部署https://www.cnblogs.com/spll/p/9952651.html    
-quatz使用https://blog.csdn.net/noaman_wgs/article/details/80984873
+quatz使用https://blog.csdn.net/noaman_wgs/article/details/80984873    
+redis哨兵搭建https://www.cnblogs.com/kevingrace/p/9004460.html
 
